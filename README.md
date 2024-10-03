@@ -56,5 +56,3 @@ To run this project, you'll need:
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to modify it to fit your specific needs! Let me know if you need any additional sections or details.
